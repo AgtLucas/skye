@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/skye/issues"
   },
-  "homepage": "https://github.com/AgtLucas/skye"
+  "homepage": "https://github.com/AgtLucas/skye",
+  "dependencies": {
+    "express": "^4.11.2",
+    "taunus": "^4.1.7",
+    "taunus-express": "^2.1.0"
+  }
 }
